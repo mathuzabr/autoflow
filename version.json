@@ -1,7 +1,7 @@
 {
   "version": "1.3.0",
   "status": "stable",
-  "update_required": false,
+  "update_required": true,
   "release_date": "2026-09-07",
   "download_url": "https://autoflow.afcode.com.br/download"
 }
